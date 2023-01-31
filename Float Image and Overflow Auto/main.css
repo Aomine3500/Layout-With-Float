@@ -1,0 +1,22 @@
+div, img {
+    border: 2px solid red;
+    margin: 20px;
+}
+
+div {
+    overflow: auto;
+    /*used when the container content is small then the image */
+}
+
+img {
+    height: 200px;
+    width: 250px;
+}
+
+#right {
+    float: right;
+}
+
+#left {
+    float: left;
+}
