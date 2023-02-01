@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+.float {
+    height: 200px;
+    width: 250px;
+    background-color: greenyellow;
+    border: 3px solid whitesmoke;
+    color: black;
+    margin: 15px;
+    float: left;
+    text-align: center;
+}
+
+.clear {
+    background-color: red;
+    border: 3px solid black;
+    color: black;
+    margin: 15px;
+    clear: both; /* we can use left or right with the same result */
+    text-align: center;
+}
