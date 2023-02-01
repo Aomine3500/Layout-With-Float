@@ -1,0 +1,19 @@
+.container {
+    width: 85%;
+    margin: 0 auto;
+    border: 3px solid orangered;
+}
+
+
+
+img {
+    float: right;
+    width: 300px;
+    height: 275px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+p {
+    margin: 10px;
+}
